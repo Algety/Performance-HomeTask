@@ -1,1 +1,1 @@
-The JMeter Task is not finished. Have some difficulties with the task
+Home tasks for the Performance Testing Course / EPAM 2022
